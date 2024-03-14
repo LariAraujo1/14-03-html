@@ -207,3 +207,15 @@
     border-radius: 25px;
   }
   
+
+  /* 24 */
+
+ .text-aligned{
+  text-align: right;
+ } 
+ .container-center{
+  text-align: center;
+  background-color: antiquewhite;
+  width:300px;
+  margin-left:130px;
+ }
